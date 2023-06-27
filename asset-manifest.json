@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-image-crop/static/css/main.9822ed0e.css",
+    "main.js": "/react-image-crop/static/js/main.aa3a4b56.js",
+    "index.html": "/react-image-crop/index.html",
+    "main.9822ed0e.css.map": "/react-image-crop/static/css/main.9822ed0e.css.map",
+    "main.aa3a4b56.js.map": "/react-image-crop/static/js/main.aa3a4b56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9822ed0e.css",
+    "static/js/main.aa3a4b56.js"
+  ]
+}
