@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-image-crop/static/css/main.554c230d.css",
+    "main.css": "/react-image-crop/static/css/main.86b4ce76.css",
     "main.js": "/react-image-crop/static/js/main.b7e7b979.js",
     "index.html": "/react-image-crop/index.html",
-    "main.554c230d.css.map": "/react-image-crop/static/css/main.554c230d.css.map",
+    "main.86b4ce76.css.map": "/react-image-crop/static/css/main.86b4ce76.css.map",
     "main.b7e7b979.js.map": "/react-image-crop/static/js/main.b7e7b979.js.map"
   },
   "entrypoints": [
-    "static/css/main.554c230d.css",
+    "static/css/main.86b4ce76.css",
     "static/js/main.b7e7b979.js"
   ]
 }
