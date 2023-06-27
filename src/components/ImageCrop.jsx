@@ -2,6 +2,7 @@ import React, { useState, useRef } from "react";
 import ReactCrop from "react-image-crop";
 import "react-image-crop/dist/ReactCrop.css";
 import "../css/ImageCrop.css";
+import Signature from "./Signature";
 
 const ImageCrop = () => {
   const [selectedFile, setSelectedFile] = useState(null);
@@ -94,13 +95,8 @@ const ImageCrop = () => {
         </div>
       </div>
       <div className="footer">
-        <h4>Designed & Developed by</h4>
-        <h6>Shaiaz Ali</h6>
-        <h6>Bachelor of CS, AIUB</h6>
+        <Signature />
       </div>
-      {/* 
-      
-       */}
     </>
   );
 };
