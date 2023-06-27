@@ -1,4 +1,4 @@
 .container {
   min-height: 100vh;
-  background-color: gray;
+  background-image: linear-gradient(to right, #b6fbff, #83a4d4);
 }
